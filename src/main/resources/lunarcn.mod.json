@@ -1,0 +1,10 @@
+{
+  "mixinConfigs": [
+    "ps.mixins.json"
+  ],
+  "entrypoints": [
+    "org.cubewhy.lunarcn.LunarPS"
+  ],
+  "hooks": [
+  ]
+}

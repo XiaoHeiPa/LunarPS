@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "org.cubewhy.lunarcn.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinGuiMultiplayer",
+    "MixinNetworkManager"
+  ]
+}
